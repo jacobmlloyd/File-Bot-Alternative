@@ -1,6 +1,8 @@
 # Filebot Alternative
  
  A simple alternative to the paid Filebot application to rename movie and TV show files using TheMovieDB metadata. This application is not secure and stores your saved API credentials in a JSON file called config.json. Use at your own risk. Future support of this application is undetermined based on uses. We do not condone pirating movies - please only use for your own media. This application only makes API request to The Movie DB -- it does NOT send data to our servers (due to privacy reasons, but also because we don't care enough to setup a server to spy on people when there's 0 benefit to anyone for such a simple application?)
+
+Feel free to use free of charge. We ask that you don't package it and try to resell it unless you add value to it (e.g. extra features) and still create a link in the application to point towards the open-source version. 
  
  ## Requirements
  
